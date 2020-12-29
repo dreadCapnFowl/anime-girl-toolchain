@@ -6,5 +6,5 @@
 3. Export fbx
 4. Rig using Mixamo
 5. Reimport into blender
-6. Click the "export engine ready" button
+6. Click the "export engine ready" button // ??? see me
 7. Import
